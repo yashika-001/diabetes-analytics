@@ -80,3 +80,5 @@ with tab2:
     st.subheader("2. Readmission Reduction")
     st.image("barchart.png", caption="Readmission rates stratified by Primary Diagnosis.")
     st.info("Insight: Proactive HbA1c measurement is associated with a decrease in critical <30-day hospital readmissions, particularly for primary diabetic cohorts.")
+    st.subheader("3. Additional Readmission Insights")
+    st.image("barchart2.png", caption="Furthur breakdown of hospital readmission rates.")
